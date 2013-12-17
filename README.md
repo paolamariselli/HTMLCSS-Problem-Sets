@@ -1,6 +1,4 @@
-Learning-Is-Fun
-===============
+HTMLCSS-Problem-Sets
+==================
 
-Partial HTML and CSS basics.
-
-> Always in progress.
+Various computer science problem sets.
